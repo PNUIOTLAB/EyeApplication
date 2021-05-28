@@ -34,4 +34,5 @@ hello
 MySQL is ...
 2021.05.27
 fqelnvkva
-
+2021.05.28
+폭발적인 효과
